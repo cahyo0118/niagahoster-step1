@@ -1,0 +1,12 @@
+{
+    "name": "niagahoster/step1",
+    "authors": [
+        {
+            "name": "N. Cahyo",
+            "email": "nurcahyoputro0@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}

@@ -1,0 +1,34 @@
+@import url(/assets/fonts/montserrat/Montserrat-Black.otf);
+@import url(/assets/fonts/montserrat/Montserrat-Bold.otf);
+@import url(/assets/fonts/montserrat/Montserrat-Hairline.otf);
+@import url(/assets/fonts/montserrat/Montserrat-Light.otf);
+@import url(/assets/fonts/montserrat/Montserrat-Regular.otf);
+
+@import url(/assets/fonts/roboto/Roboto-Black.otf);
+@import url(/assets/fonts/roboto/Roboto-BlackItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Bold.ttf);
+@import url(/assets/fonts/roboto/Roboto-BoldCondensed.ttf);
+@import url(/assets/fonts/roboto/Roboto-BoldCondensedItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-BoldItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Condensed.ttf);
+@import url(/assets/fonts/roboto/Roboto-CondensedItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Italic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Light.ttf);
+@import url(/assets/fonts/roboto/Roboto-LightItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Medium.ttf);
+@import url(/assets/fonts/roboto/Roboto-MediumItalic.ttf);
+@import url(/assets/fonts/roboto/Roboto-Regular.ttf);
+@import url(/assets/fonts/roboto/Roboto-Thin.ttf);
+@import url(/assets/fonts/roboto/Roboto-ThinItalic.ttf);
+
+.f-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.f-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
